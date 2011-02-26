@@ -22,6 +22,7 @@
       <module>api</module>
       <module>impl</module>
       <module>combined</module>
+      <module>tests/jetty</module>
    </modules>
 
    <properties>
